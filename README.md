@@ -1,5 +1,12 @@
 # NWT7-compatible clone project
 
+### Install necessary tools firsst:
+
+```brew install avrdude```
+
+```brew tap osx-cross/avr```
+
+```brew install avr-gcc```
 
 ### Programming ATmega chip:
 
